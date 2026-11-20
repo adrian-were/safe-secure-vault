@@ -1,0 +1,1 @@
+{"name":"secure-vault-project","version":"1.0.0","description":"ICS 3201 Computer Security — Secure Contact & Note Vault using SubtleCrypto","main":"secure-vault.js","scripts":{"test":"node test-vault.js","cli":"node cli.js","ui":"npx serve ."},"keywords":["cryptography","password-manager","pbkdf2","aes-gcm","hmac","subtlecrypto"],"license":"MIT","dependencies":{"pg":"^8.23.1"}}

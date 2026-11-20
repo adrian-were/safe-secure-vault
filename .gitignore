@@ -1,0 +1,4 @@
+node_modules/
+vault.json
+trusted-hash.txt
+.env
